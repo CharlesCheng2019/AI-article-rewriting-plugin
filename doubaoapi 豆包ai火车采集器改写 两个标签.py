@@ -83,4 +83,6 @@ else:
 
 # 必须包含的标签说明：
 # 采集内容1、采集内容2、api_key、api_key、model、prompt1、prompt1、改写内容1、改写内容2
-#
+api_key、api_key、model、prompt1、prompt1，设置为生成固定格式的数据-固定字符串
+#"采集内容1"将由"prompt1"指令改写成为“改写内容1”
+#"采集内容2"将由"prompt2"指令改写成为“改写内容2”
